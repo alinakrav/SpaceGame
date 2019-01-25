@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Highscore
+comment0.text=\n\ The\ button\ that\ leads\ to\ the\ highscore\ screen\ when\ pressed.\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=hs
+comment2.target=void\ setHighscore(int)
+comment3.params=
+comment3.target=int\ getHighscore()
+numComments=4

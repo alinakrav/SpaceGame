@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Block
+comment0.text=\n\ Base\ class\ for\ blocks.\n\ Contains\ functionality\ common\ for\ all\ types\ of\ blocks.\n\ Type-specific\ functionality\ is\ defined\ in\ child\ classes.\n
+comment1.params=_color\ _finalHeight\ _skipGrowth
+comment1.target=Block(java.awt.Color,\ int,\ boolean)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=height\ skipGrowth
+comment3.target=Block\ createBlock(int,\ boolean)
+comment4.params=
+comment4.target=int\ generateHeight()
+comment5.params=x\ y
+comment5.target=Block\ getFirstBlockAt(int,\ int)
+comment6.params=
+comment6.target=void\ moveBlock()
+comment7.params=x\ y
+comment7.target=boolean\ containsPoint(int,\ int)
+comment8.params=newWidth\ newHeight
+comment8.target=void\ rescale(int,\ int)
+comment9.params=sh
+comment9.target=void\ onHit(Ship)
+numComments=10

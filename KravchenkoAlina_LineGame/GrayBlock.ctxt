@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=GrayBlock
+comment0.text=\n\ RedBlock\ is\ a\ child\ class\ of\ class\ Block.\n\ It\ inherits\ most\ of\ its\ functionality\ from\ class\ Block,\ and\ only\ defines\ what\ is\ different.\n\ If\ the\ ship\ hits\ the\ GrayBlock\ it\ starts\ flying\ in\ the\ opposite\ direction.\n
+comment1.params=h\ skipGrowth
+comment1.target=GrayBlock(int,\ boolean)
+comment2.params=sh
+comment2.target=void\ onHit(Ship)
+numComments=3

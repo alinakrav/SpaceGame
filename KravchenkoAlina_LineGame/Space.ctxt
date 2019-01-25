@@ -1,0 +1,34 @@
+#BlueJ class context
+comment0.target=Space
+comment0.text=\ Line\ Breaking\ Game\ by\ Alina\ Kravchenko\n\ Mr.\ Cohen\ P3\ ICS3U1\n\ June\ 15th,\ 2017\n\ \n\ Sound\ Effects\ credited\ to\ audioblocks.com\n\ Animations\ credited\ to\ giphy.com\n\ \n\ To\ play\ the\ game,\ press\ the\ spacebar\ to\ launch\ the\ ship\ from\ side\ to\ side.\n\ Try\ to\ hit\ the\ white\ blocks\ to\ break\ them.\n\ Hit\ the\ grey\ blocks\ to\ bounce\ off\ and\ gain\ some\ motion.\n\ Hitting\ the\ red\ blocks\ breaks\ the\ ship.\n\ You\ have\ to\ stay\ in\ view,\ or\ else\ the\ ship\ breaks\ down.\n\ You\ can\ keep\ a\ streak\ if\ you\ break\ the\ line\ each\ consecutive\ thrust\ (3\ times\ and\ up\ \=\ breaking\ streak)\n\ A\ streak\ over\ 5\ makes\ you\ gain\ double\ points\ for\ each\ line\ break\ (as\ long\ as\ the\ streak\ is\ running)\n\ You\ can\ see\ your\ highscore\ per\ program\ execution\ (everything\ resets\ once\ program\ is\ stopped)\ in\ the\ menu.\n
+comment1.params=
+comment1.target=Space()
+comment10.params=
+comment10.target=int\ getStreak()
+comment11.params=
+comment11.target=void\ addBlock()
+comment12.params=x\ y
+comment12.target=Block\ getFirstBlockAt(int,\ int)
+comment13.params=
+comment13.target=void\ updateScore()
+comment14.params=
+comment14.target=int\ getScore()
+comment15.params=
+comment15.target=void\ checkStreak()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ initBlocks()
+comment4.params=
+comment4.target=void\ startMusic()
+comment5.params=
+comment5.target=void\ stopped()
+comment6.params=
+comment6.target=Ship\ getShip()
+comment7.params=
+comment7.target=void\ increaseScore()
+comment8.params=
+comment8.target=void\ setStreak()
+comment9.params=
+comment9.target=void\ resetStreak()
+numComments=16

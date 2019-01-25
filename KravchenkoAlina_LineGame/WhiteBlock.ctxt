@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=WhiteBlock
+comment0.text=\n\ RedBlock\ is\ a\ child\ class\ of\ class\ Block.\n\ It\ inherits\ most\ of\ its\ functionality\ from\ class\ Block,\ and\ only\ defines\ what\ is\ different.\n\ If\ the\ ship\ hits\ the\ WhiteBlock,\ the\ lower\ part\ of\ the\ block\ disappears,\ along\ with\ all\ lower\ blocks.\n
+comment1.params=h\ skipGrowth
+comment1.target=WhiteBlock(int,\ boolean)
+comment2.params=sh
+comment2.target=void\ onHit(Ship)
+numComments=3
